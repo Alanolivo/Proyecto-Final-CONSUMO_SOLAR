@@ -1,0 +1,14 @@
+com\microgrid\dao\ConexionBD.class
+com\microgrid\controller\ComprarEnergiaServlet.class
+com\microgrid\model\OfertaEnergia.class
+com\microgrid\controller\AdminDashboardServlet.class
+com\microgrid\controller\MarketplaceServlet.class
+com\microgrid\dao\TransaccionDAO.class
+com\microgrid\controller\LoginServlet.class
+com\microgrid\controller\RegistrarUsuarioServlet.class
+com\microgrid\model\Usuario.class
+com\microgrid\controller\PublicarOfertaServlet.class
+com\microgrid\controller\LogoutServlet.class
+com\microgrid\dao\OfertaDAO.class
+com\microgrid\dao\UsuarioDAO.class
+com\microgrid\model\Transaccion.class
